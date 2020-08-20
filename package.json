@@ -12,7 +12,7 @@
   "author": "irfan",
   "license": "ISC",
   "dependencies": {
-    "bcrypt": "^3.0.6",
+    "bcrypt": "^5.0.0",
     "connect-flash": "^0.1.1",
     "connect-mongo": "^3.1.2",
     "edge.js": "^1.1.4",
